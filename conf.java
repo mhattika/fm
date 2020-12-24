@@ -1,5 +1,5 @@
 class A
 {
-int b=10;
+int b=222;
 
 }
