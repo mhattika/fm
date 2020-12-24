@@ -1,0 +1,11 @@
+mahesh@mahesh-VirtualBox:~/Harry/fm$ git merge lsh2.2
+Auto-merging logout.java
+CONFLICT (content): Merge conflict in logout.java
+Automatic merge failed; fix conflicts and then commit the result.
+
+mahesh@mahesh-VirtualBox:~/Harry/fm$ git merge lsh2.2
+error: Merging is not possible because you have unmerged files.
+hint: Fix them up in the work tree, and then use 'git add/rm <file>'
+hint: as appropriate to mark resolution and make a commit.
+fatal: Exiting because of an unresolved conflict.
+
