@@ -1,8 +1,8 @@
 class A
 {
-int a = 1000;
+int a = 5000;
 
-	for (int i=0;i<=500;i++)
+	for (int i=0;i<=600;i++)
 	{
 	System.out.println("number="+i);
 	}
