@@ -6,4 +6,6 @@ int a = 5000;
 	{
 	System.out.println("number="+i);
 	}
+
+	System.out.println("numbers="+i);
 }
